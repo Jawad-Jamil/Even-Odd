@@ -42,7 +42,6 @@ button{
 
 .result{
     padding-bottom: 25px;
-    background-color: var(--white);
 }
 
 .result ul{
@@ -52,6 +51,7 @@ button{
     padding: 10px;
     background-color: var(--white);
     list-style: none;
+    background-color: var(--white);
 }
 
 .result ul h3{
