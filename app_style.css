@@ -42,6 +42,7 @@ button{
 
 .result{
     padding-bottom: 25px;
+    background-color: var(--white);
 }
 
 .result ul{
